@@ -14,8 +14,8 @@
             </div>
         </div>
         <div>
-            <span class="spacer-right20">Letztes Update: 29.03.2020</span>
-            <span>Anzahl Filme: 308</span>
+            <span class="spacer-right20">Letztes Update: 09.06.2020</span>
+            <span>Anzahl Filme: 310</span>
         </div>
         <div class="spacer-top8">
             <a href="#latest-additions" class="button button-orange">Neueste Filme</a>
@@ -60,6 +60,32 @@
         </div>
         <ul class="link-gray movie-list">
             
+        <li class="thumbnail">
+            <a href="movies/310.htm"><img border="0" src="covers/000310.jpg" alt="poster Highlander - Es kann nur einen geben
+        &nbsp;&nbsp;(1986)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/310.htm">Highlander - Es kann nur einen geben
+        &nbsp;&nbsp;(1986)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/309.htm"><img border="0" src="covers/000309.jpg" alt="poster Spider-Man: A New Universe
+        &nbsp;&nbsp;(2018)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/309.htm">Spider-Man: A New Universe
+        &nbsp;&nbsp;(2018)
+        </a>
+            </div>
+        </li>
+        
+
         <li class="thumbnail">
             <a href="movies/308.htm"><img border="0" src="covers/000308.jpg" alt="poster John Wick: Kapitel 3
         &nbsp;&nbsp;(2019)
@@ -164,32 +190,6 @@
         </li>
         
 
-        <li class="thumbnail">
-            <a href="movies/300.htm"><img border="0" src="covers/000300.jpg" alt="poster Alles eine Frage der Zeit
-        &nbsp;&nbsp;(2013)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/300.htm">Alles eine Frage der Zeit
-        &nbsp;&nbsp;(2013)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/299.htm"><img border="0" src="covers/000299.jpg" alt="poster The Witch
-        &nbsp;&nbsp;(2015)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/299.htm">The Witch
-        &nbsp;&nbsp;(2015)
-        </a>
-            </div>
-        </li>
-        
-
         </ul>
         
 
@@ -208,6 +208,16 @@
         </div>
         <ul class="link-gray movie-list">
             
+        <li><a href="movies/310.htm">310.&nbsp;&nbsp;Highlander - Es kann nur einen geben
+        &nbsp;&nbsp;(1986)
+        </a></li>
+        
+
+        <li><a href="movies/309.htm">309.&nbsp;&nbsp;Spider-Man: A New Universe
+        &nbsp;&nbsp;(2018)
+        </a></li>
+        
+
         <li><a href="movies/308.htm">308.&nbsp;&nbsp;John Wick: Kapitel 3
         &nbsp;&nbsp;(2019)
         </a></li>
@@ -2548,6 +2558,11 @@
         &nbsp;&nbsp;(2018)
         </a></li>
         
+
+        <li><a href="movies/310.htm">Highlander - Es kann nur einen geben
+        &nbsp;&nbsp;(1986)
+        </a></li>
+        
 </ul>
         
         
@@ -3183,6 +3198,11 @@
 
         <li><a href="movies/180.htm">Speed
         &nbsp;&nbsp;(1994)
+        </a></li>
+        
+
+        <li><a href="movies/309.htm">Spider-Man: A New Universe
+        &nbsp;&nbsp;(2018)
         </a></li>
         
 
