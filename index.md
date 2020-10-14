@@ -14,8 +14,8 @@
             </div>
         </div>
         <div>
-            <span class="spacer-right20">Letztes Update: 09.06.2020</span>
-            <span>Anzahl Filme: 310</span>
+            <span class="spacer-right20">Letztes Update: 14.10.2020</span>
+            <span>Anzahl Filme: 319</span>
         </div>
         <div class="spacer-top8">
             <a href="#latest-additions" class="button button-orange">Neueste Filme</a>
@@ -61,6 +61,123 @@
         <ul class="link-gray movie-list">
             
         <li class="thumbnail">
+            <a href="movies/319.htm"><img border="0" src="covers/000319.jpg" alt="poster Stargate
+        &nbsp;&nbsp;(1994)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/319.htm">Stargate
+        &nbsp;&nbsp;(1994)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/318.htm"><img border="0" src="covers/000318.jpg" alt="poster A Quiet Place
+        &nbsp;&nbsp;(2018)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/318.htm">A Quiet Place
+        &nbsp;&nbsp;(2018)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/317.htm"><img border="0" src="covers/000317.jpg" alt="poster Nocturnal Animals
+        &nbsp;&nbsp;(2016)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/317.htm">Nocturnal Animals
+        &nbsp;&nbsp;(2016)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/316.htm"><img border="0" src="covers/000316.jpg" alt="poster Ad Astra: Zu den Sternen
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/316.htm">Ad Astra: Zu den Sternen
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/315.htm"><img border="0" src="covers/000315.jpg" alt="poster Die Farbe aus dem All
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/315.htm">Die Farbe aus dem All
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/314.htm"><img border="0" src="covers/000314.jpg" alt="poster Joker
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/314.htm">Joker
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/313.htm"><img border="0" src="covers/000313.jpg" alt="poster The Gentlemen
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/313.htm">The Gentlemen
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/312.htm"><img border="0" src="covers/000312.jpg" alt="poster Big Little Lies
+        &nbsp;&nbsp;(2017)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/312.htm">Big Little Lies
+        &nbsp;&nbsp;(2017)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/311.htm"><img border="0" src="covers/000311.jpg" alt="poster Oldboy
+        &nbsp;&nbsp;(2003)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/311.htm">Oldboy
+        &nbsp;&nbsp;(2003)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
             <a href="movies/310.htm"><img border="0" src="covers/000310.jpg" alt="poster Highlander - Es kann nur einen geben
         &nbsp;&nbsp;(1986)
         " height="135" align="middle"></a>
@@ -68,123 +185,6 @@
             <div class="thumbnail-text">
                 <a href="movies/310.htm">Highlander - Es kann nur einen geben
         &nbsp;&nbsp;(1986)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/309.htm"><img border="0" src="covers/000309.jpg" alt="poster Spider-Man: A New Universe
-        &nbsp;&nbsp;(2018)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/309.htm">Spider-Man: A New Universe
-        &nbsp;&nbsp;(2018)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/308.htm"><img border="0" src="covers/000308.jpg" alt="poster John Wick: Kapitel 3
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/308.htm">John Wick: Kapitel 3
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/307.htm"><img border="0" src="covers/000307.jpg" alt="poster Lethal Weapon 4 - Zwei Profis r&#228;umen auf
-        &nbsp;&nbsp;(1998)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/307.htm">Lethal Weapon 4 - Zwei Profis r&#228;umen auf
-        &nbsp;&nbsp;(1998)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/306.htm"><img border="0" src="covers/000306.jpg" alt="poster Brennpunkt L.A. - Die Profis sind zur&#252;ck
-        &nbsp;&nbsp;(1992)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/306.htm">Brennpunkt L.A. - Die Profis sind zur&#252;ck
-        &nbsp;&nbsp;(1992)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/305.htm"><img border="0" src="covers/000305.jpg" alt="poster Lethal Weapon 2 - Brennpunkt L.A.
-        &nbsp;&nbsp;(1989)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/305.htm">Lethal Weapon 2 - Brennpunkt L.A.
-        &nbsp;&nbsp;(1989)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/304.htm"><img border="0" src="covers/000304.jpg" alt="poster Lethal Weapon - Zwei stahlharte Profis
-        &nbsp;&nbsp;(1987)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/304.htm">Lethal Weapon - Zwei stahlharte Profis
-        &nbsp;&nbsp;(1987)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/303.htm"><img border="0" src="covers/000303.jpg" alt="poster Parasite
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/303.htm">Parasite
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/302.htm"><img border="0" src="covers/000302.jpg" alt="poster Victoria
-        &nbsp;&nbsp;(2015)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/302.htm">Victoria
-        &nbsp;&nbsp;(2015)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/301.htm"><img border="0" src="covers/000301.jpg" alt="poster Die Stunde der Patrioten
-        &nbsp;&nbsp;(1992)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/301.htm">Die Stunde der Patrioten
-        &nbsp;&nbsp;(1992)
         </a>
             </div>
         </li>
@@ -208,6 +208,51 @@
         </div>
         <ul class="link-gray movie-list">
             
+        <li><a href="movies/319.htm">319.&nbsp;&nbsp;Stargate
+        &nbsp;&nbsp;(1994)
+        </a></li>
+        
+
+        <li><a href="movies/318.htm">318.&nbsp;&nbsp;A Quiet Place
+        &nbsp;&nbsp;(2018)
+        </a></li>
+        
+
+        <li><a href="movies/317.htm">317.&nbsp;&nbsp;Nocturnal Animals
+        &nbsp;&nbsp;(2016)
+        </a></li>
+        
+
+        <li><a href="movies/316.htm">316.&nbsp;&nbsp;Ad Astra: Zu den Sternen
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/315.htm">315.&nbsp;&nbsp;Die Farbe aus dem All
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/314.htm">314.&nbsp;&nbsp;Joker
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/313.htm">313.&nbsp;&nbsp;The Gentlemen
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/312.htm">312.&nbsp;&nbsp;Big Little Lies
+        &nbsp;&nbsp;(2017)
+        </a></li>
+        
+
+        <li><a href="movies/311.htm">311.&nbsp;&nbsp;Oldboy
+        &nbsp;&nbsp;(2003)
+        </a></li>
+        
+
         <li><a href="movies/310.htm">310.&nbsp;&nbsp;Highlander - Es kann nur einen geben
         &nbsp;&nbsp;(1986)
         </a></li>
@@ -1778,6 +1823,11 @@
         </a></li>
         
 
+        <li><a href="movies/316.htm">Ad Astra: Zu den Sternen
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/148.htm">Alien - Die Wiedergeburt
         &nbsp;&nbsp;(1997)
         </a></li>
@@ -1893,6 +1943,11 @@
 
         <li><a href="movies/212.htm">The Big Lebowski
         &nbsp;&nbsp;(1998)
+        </a></li>
+        
+
+        <li><a href="movies/312.htm">Big Little Lies
+        &nbsp;&nbsp;(2017)
         </a></li>
         
 
@@ -2227,6 +2282,11 @@
         </a></li>
         
 
+        <li><a href="movies/315.htm">Die Farbe aus dem All
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/16.htm">Die Insel
         &nbsp;&nbsp;(2005)
         </a></li>
@@ -2471,6 +2531,11 @@
         </a></li>
         
 
+        <li><a href="movies/313.htm">The Gentlemen
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/222.htm">Gesetz der Rache
         &nbsp;&nbsp;(2009)
         </a></li>
@@ -2706,6 +2771,11 @@
         
 
         <li><a href="movies/308.htm">John Wick: Kapitel 3
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/314.htm">Joker
         &nbsp;&nbsp;(2019)
         </a></li>
         
@@ -2957,6 +3027,11 @@
         </a></li>
         
 
+        <li><a href="movies/317.htm">Nocturnal Animals
+        &nbsp;&nbsp;(2016)
+        </a></li>
+        
+
         <li><a href="movies/135.htm">Non-Stop
         &nbsp;&nbsp;(2014)
         </a></li>
@@ -2982,6 +3057,11 @@
 
         <li><a href="movies/27.htm">Ohne Limit
         &nbsp;&nbsp;(2011)
+        </a></li>
+        
+
+        <li><a href="movies/311.htm">Oldboy
+        &nbsp;&nbsp;(2003)
         </a></li>
         
 
@@ -3060,6 +3140,17 @@
 </ul>
         
         
+        
+        <img id="movies-q" class="bar" src="gif/bar_orange_black.jpg" alt="bar orange to black" />
+        <div class="header-orange">
+            Q<a href="#top"><img class="home" src="gif/home.svg" alt="home"/></a>
+        </div>
+        <ul class="link-gray movie-list">
+        <li><a href="movies/318.htm">A Quiet Place
+        &nbsp;&nbsp;(2018)
+        </a></li>
+        
+</ul>
         
         
         
@@ -3228,6 +3319,11 @@
 
         <li><a href="movies/144.htm">Star Wars: Das Erwachen der Macht
         &nbsp;&nbsp;(2015)
+        </a></li>
+        
+
+        <li><a href="movies/319.htm">Stargate
+        &nbsp;&nbsp;(1994)
         </a></li>
         
 
@@ -3626,7 +3722,7 @@
         
     </div>
     <div class="footer">
-        <p>Erstellt mit EMDB V3.56 (C) 2005-2020. Keine Rechte vorbehalten ;-)</p>
+        <p>Erstellt mit EMDB V3.68 (C) 2005-2020. Keine Rechte vorbehalten ;-)</p>
         
     </div>
 </body>
