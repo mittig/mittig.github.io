@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>EMDB</title>
@@ -7,15 +6,15 @@
 <body>
     <div id="top" class="container">
         <div class="title">
-            Eric's Movie Database
+            Karstens Movie Database
             <div class="float-right">
                 <a href="http://www.imdb.com" class="button button-gray">IMDb website</a>
                 <a href="http://www.emdb.eu" class="button button-gray">EMDB website</a>
             </div>
         </div>
         <div>
-            <span class="spacer-right20">Letztes Update: 14.10.2020</span>
-            <span>Anzahl Filme: 319</span>
+            <span class="spacer-right20">Letztes Update: 25.01.2021</span>
+            <span>Anzahl Filme: 330</span>
         </div>
         <div class="spacer-top8">
             <a href="#latest-additions" class="button button-orange">Neueste Filme</a>
@@ -61,6 +60,149 @@
         <ul class="link-gray movie-list">
             
         <li class="thumbnail">
+            <a href="movies/330.htm"><img border="0" src="covers/000330.jpg" alt="poster Fedora
+        &nbsp;&nbsp;(1978)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/330.htm">Fedora
+        &nbsp;&nbsp;(1978)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/329.htm"><img border="0" src="covers/000329.jpg" alt="poster Midsommar
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/329.htm">Midsommar
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/328.htm"><img border="0" src="covers/000328.jpg" alt="poster The Farewell
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/328.htm">The Farewell
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/327.htm"><img border="0" src="covers/000327.jpg" alt="poster Booksmart
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/327.htm">Booksmart
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/326.htm"><img border="0" src="covers/000326.jpg" alt="poster Dirty Dancing
+        &nbsp;&nbsp;(1987)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/326.htm">Dirty Dancing
+        &nbsp;&nbsp;(1987)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/325.htm"><img border="0" src="covers/000325.jpg" alt="poster Gef&#228;hrliche Brandung
+        &nbsp;&nbsp;(1991)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/325.htm">Gef&#228;hrliche Brandung
+        &nbsp;&nbsp;(1991)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/324.htm"><img border="0" src="covers/000324.jpg" alt="poster 12 Monkeys
+        &nbsp;&nbsp;(1995)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/324.htm">12 Monkeys
+        &nbsp;&nbsp;(1995)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/323.htm"><img border="0" src="covers/000323.jpg" alt="poster Knives Out: Mord ist Familiensache
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/323.htm">Knives Out: Mord ist Familiensache
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/322.htm"><img border="0" src="covers/000322.jpg" alt="poster The Cabin in the Woods
+        &nbsp;&nbsp;(2011)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/322.htm">The Cabin in the Woods
+        &nbsp;&nbsp;(2011)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/321.htm"><img border="0" src="covers/000321.jpg" alt="poster The Peanut Butter Falcon
+        &nbsp;&nbsp;(2019)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/321.htm">The Peanut Butter Falcon
+        &nbsp;&nbsp;(2019)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
+            <a href="movies/320.htm"><img border="0" src="covers/000320.jpg" alt="poster Das doppelte Lottchen
+        &nbsp;&nbsp;(2017)
+        " height="135" align="middle"></a>
+            <br>
+            <div class="thumbnail-text">
+                <a href="movies/320.htm">Das doppelte Lottchen
+        &nbsp;&nbsp;(2017)
+        </a>
+            </div>
+        </li>
+        
+
+        <li class="thumbnail">
             <a href="movies/319.htm"><img border="0" src="covers/000319.jpg" alt="poster Stargate
         &nbsp;&nbsp;(1994)
         " height="135" align="middle"></a>
@@ -68,123 +210,6 @@
             <div class="thumbnail-text">
                 <a href="movies/319.htm">Stargate
         &nbsp;&nbsp;(1994)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/318.htm"><img border="0" src="covers/000318.jpg" alt="poster A Quiet Place
-        &nbsp;&nbsp;(2018)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/318.htm">A Quiet Place
-        &nbsp;&nbsp;(2018)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/317.htm"><img border="0" src="covers/000317.jpg" alt="poster Nocturnal Animals
-        &nbsp;&nbsp;(2016)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/317.htm">Nocturnal Animals
-        &nbsp;&nbsp;(2016)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/316.htm"><img border="0" src="covers/000316.jpg" alt="poster Ad Astra: Zu den Sternen
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/316.htm">Ad Astra: Zu den Sternen
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/315.htm"><img border="0" src="covers/000315.jpg" alt="poster Die Farbe aus dem All
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/315.htm">Die Farbe aus dem All
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/314.htm"><img border="0" src="covers/000314.jpg" alt="poster Joker
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/314.htm">Joker
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/313.htm"><img border="0" src="covers/000313.jpg" alt="poster The Gentlemen
-        &nbsp;&nbsp;(2019)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/313.htm">The Gentlemen
-        &nbsp;&nbsp;(2019)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/312.htm"><img border="0" src="covers/000312.jpg" alt="poster Big Little Lies
-        &nbsp;&nbsp;(2017)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/312.htm">Big Little Lies
-        &nbsp;&nbsp;(2017)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/311.htm"><img border="0" src="covers/000311.jpg" alt="poster Oldboy
-        &nbsp;&nbsp;(2003)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/311.htm">Oldboy
-        &nbsp;&nbsp;(2003)
-        </a>
-            </div>
-        </li>
-        
-
-        <li class="thumbnail">
-            <a href="movies/310.htm"><img border="0" src="covers/000310.jpg" alt="poster Highlander - Es kann nur einen geben
-        &nbsp;&nbsp;(1986)
-        " height="135" align="middle"></a>
-            <br>
-            <div class="thumbnail-text">
-                <a href="movies/310.htm">Highlander - Es kann nur einen geben
-        &nbsp;&nbsp;(1986)
         </a>
             </div>
         </li>
@@ -208,6 +233,61 @@
         </div>
         <ul class="link-gray movie-list">
             
+        <li><a href="movies/330.htm">330.&nbsp;&nbsp;Fedora
+        &nbsp;&nbsp;(1978)
+        </a></li>
+        
+
+        <li><a href="movies/329.htm">329.&nbsp;&nbsp;Midsommar
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/328.htm">328.&nbsp;&nbsp;The Farewell
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/327.htm">327.&nbsp;&nbsp;Booksmart
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/326.htm">326.&nbsp;&nbsp;Dirty Dancing
+        &nbsp;&nbsp;(1987)
+        </a></li>
+        
+
+        <li><a href="movies/325.htm">325.&nbsp;&nbsp;Gef&#228;hrliche Brandung
+        &nbsp;&nbsp;(1991)
+        </a></li>
+        
+
+        <li><a href="movies/324.htm">324.&nbsp;&nbsp;12 Monkeys
+        &nbsp;&nbsp;(1995)
+        </a></li>
+        
+
+        <li><a href="movies/323.htm">323.&nbsp;&nbsp;Knives Out: Mord ist Familiensache
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/322.htm">322.&nbsp;&nbsp;The Cabin in the Woods
+        &nbsp;&nbsp;(2011)
+        </a></li>
+        
+
+        <li><a href="movies/321.htm">321.&nbsp;&nbsp;The Peanut Butter Falcon
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
+        <li><a href="movies/320.htm">320.&nbsp;&nbsp;Das doppelte Lottchen
+        &nbsp;&nbsp;(2017)
+        </a></li>
+        
+
         <li><a href="movies/319.htm">319.&nbsp;&nbsp;Stargate
         &nbsp;&nbsp;(1994)
         </a></li>
@@ -1986,6 +2066,11 @@
         </a></li>
         
 
+        <li><a href="movies/327.htm">Booksmart
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/52.htm">Braveheart
         &nbsp;&nbsp;(1995)
         </a></li>
@@ -2014,6 +2099,11 @@
             C<a href="#top"><img class="home" src="gif/home.svg" alt="home"/></a>
         </div>
         <ul class="link-gray movie-list">
+        <li><a href="movies/322.htm">The Cabin in the Woods
+        &nbsp;&nbsp;(2011)
+        </a></li>
+        
+
         <li><a href="movies/291.htm">Call Me by Your Name
         &nbsp;&nbsp;(2017)
         </a></li>
@@ -2124,6 +2214,11 @@
 
         <li><a href="movies/73.htm">Das Ding aus einer anderen Welt
         &nbsp;&nbsp;(1982)
+        </a></li>
+        
+
+        <li><a href="movies/320.htm">Das doppelte Lottchen
+        &nbsp;&nbsp;(2017)
         </a></li>
         
 
@@ -2337,6 +2432,11 @@
         </a></li>
         
 
+        <li><a href="movies/326.htm">Dirty Dancing
+        &nbsp;&nbsp;(1987)
+        </a></li>
+        
+
         <li><a href="movies/139.htm">Django Unchained
         &nbsp;&nbsp;(2012)
         </a></li>
@@ -2448,6 +2548,11 @@
         </a></li>
         
 
+        <li><a href="movies/328.htm">The Farewell
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/242.htm">Fast & Furious 6
         &nbsp;&nbsp;(2013)
         </a></li>
@@ -2480,6 +2585,11 @@
 
         <li><a href="movies/263.htm">Fear and Loathing in Las Vegas
         &nbsp;&nbsp;(1998)
+        </a></li>
+        
+
+        <li><a href="movies/330.htm">Fedora
+        &nbsp;&nbsp;(1978)
         </a></li>
         
 
@@ -2528,6 +2638,11 @@
         <ul class="link-gray movie-list">
         <li><a href="movies/284.htm">Game Night
         &nbsp;&nbsp;(2018)
+        </a></li>
+        
+
+        <li><a href="movies/325.htm">Gef&#228;hrliche Brandung
+        &nbsp;&nbsp;(1991)
         </a></li>
         
 
@@ -2837,6 +2952,11 @@
         &nbsp;&nbsp;(2014)
         </a></li>
         
+
+        <li><a href="movies/323.htm">Knives Out: Mord ist Familiensache
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
 </ul>
         
         
@@ -2979,6 +3099,11 @@
         </a></li>
         
 
+        <li><a href="movies/329.htm">Midsommar
+        &nbsp;&nbsp;(2019)
+        </a></li>
+        
+
         <li><a href="movies/89.htm">Misfits - Nicht gesellschaftsf&#228;hig
         &nbsp;&nbsp;(1961)
         </a></li>
@@ -3095,6 +3220,11 @@
 
         <li><a href="movies/219.htm">Passengers
         &nbsp;&nbsp;(2016)
+        </a></li>
+        
+
+        <li><a href="movies/321.htm">The Peanut Butter Falcon
+        &nbsp;&nbsp;(2019)
         </a></li>
         
 
@@ -3591,6 +3721,11 @@
         </a></li>
         
 
+        <li><a href="movies/324.htm">12 Monkeys
+        &nbsp;&nbsp;(1995)
+        </a></li>
+        
+
         <li><a href="movies/11.htm">16 Blocks
         &nbsp;&nbsp;(2006)
         </a></li>
@@ -3701,6 +3836,7 @@
 <a href="years.htm#1981" class="button button-gray">1981</a>
 <a href="years.htm#1980" class="button button-gray">1980</a>
 <a href="years.htm#1979" class="button button-gray">1979</a>
+<a href="years.htm#1978" class="button button-gray">1978</a>
 <a href="years.htm#1976" class="button button-gray">1976</a>
 <a href="years.htm#1975" class="button button-gray">1975</a>
 <a href="years.htm#1973" class="button button-gray">1973</a>
@@ -3722,7 +3858,7 @@
         
     </div>
     <div class="footer">
-        <p>Erstellt mit EMDB V3.68 (C) 2005-2020. Keine Rechte vorbehalten ;-)</p>
+        <p>Erstellt mit EMDB V3.68 (C) 2005-2021. Keine Rechte vorbehalten ;-)</p>
         
     </div>
 </body>
